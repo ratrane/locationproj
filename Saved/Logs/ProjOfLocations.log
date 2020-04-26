@@ -682,3 +682,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-18.17.14:758][345]LogWindows: Warning: CreateProc failed: Отказано в доступе. (0x00000005)
 [2020.04.26-18.17.14:758][345]LogWindows: Warning: URL: C:/D/UE_Projects/ProjOfLocations/.git version
 [2020.04.26-18.17.14:758][345]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.04.26-18.18.49:299][261]LogSlate: Window 'Source Control Login' being destroyed
